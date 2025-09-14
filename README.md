@@ -9,7 +9,7 @@
 
 ---
 
-## *More about me...*
+## *🌲 More about me...*
 - I've learned the languages Lua, Python, C++, JavaScript, and TypeScript.
 - I'm currently learning Rust.
 - My special interests are game development and systems programming.
@@ -19,14 +19,14 @@
 
 ---
 
-## *Projects*
+## *🚀 Projects*
 | Project | Summary | Stage |
 | ------- | ------- | ------ |
 | [pyth_os](https://github.com/ARagdollCat/pyth_os) | A CLI-based OS simulator written in Python. | ![Alpha](https://img.shields.io/badge/Stage-Alpha-yellow) |
 
 ---
 
-## *Synopsis*
+## *💡 Synopsis*
 I'm a passionate programmer with 6 years of experience in languages like Lua, JavaScript, TypeScript, C++, and Python. I started my coding journey on Scratch, creating small games, and eventually moved into Roblox development with Luau. Since then, I've explored multiple languages and have grown newfound skills. Looking forward, I hope to major in computer science at MIT.
 ```cpp
 #include <print>
