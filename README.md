@@ -13,7 +13,7 @@
 - I've learned the languages Lua, Python, C++, JavaScript, and TypeScript.
 - I'm currently learning Rust.
 - My special interests are game development and systems programming.
-- I am working on [pyth_os,](https://github.com/ARagdollCat/pyth_os) a CLI-based OS simulator written in Python.
+- I am working on [py-bash,](https://github.com/ARagdollCat/py-bash) a Bash simulator written in Python.
 - My favorite animals are cats, and especially ragdoll cats.
 - My favorite color is orange.
 
