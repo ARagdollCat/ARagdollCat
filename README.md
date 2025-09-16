@@ -22,7 +22,7 @@
 ## *🚀 Projects*
 | Project | Summary | Stage |
 | ------- | ------- | ------ |
-| [pyth_os](https://github.com/ARagdollCat/pyth_os) | A CLI-based OS simulator written in Python. | ![Alpha](https://img.shields.io/badge/Stage-Alpha-yellow) |
+| [py-bash](https://github.com/ARagdollCat/py-bash) | A CLI-based OS simulator written in Python. | ![Alpha](https://img.shields.io/badge/Stage-Alpha-yellow) |
 
 ---
 
