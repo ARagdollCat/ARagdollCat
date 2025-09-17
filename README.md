@@ -23,6 +23,7 @@
 | Project | Summary | Stage |
 | ------- | ------- | ------ |
 | [py-bash](https://github.com/ARagdollCat/py-bash) | A CLI-based OS simulator written in Python. | ![Alpha](https://img.shields.io/badge/Stage-Alpha-yellow) |
+| [my_second_calculator.py](https://github.com/ARagdollCat/my_second_calculator.py) | An expansion of [my_first_calculator.py.](https://github.com/AceLewis/my_first_calculator.py) | ![Complete](https://img.shields.io/badge/Stage-Complete-green)
 
 ---
 
